@@ -5,7 +5,7 @@
 ### Telecom Company Analysis and Recommendations
 
 **Overview**
-This repository contains a presentation analyzing the performance of [Telecom Company Name]. The presentation delves into key metrics such as:
+This repository contains a presentation analyzing the performance of WAVECON. The presentation delves into key metrics such as:
 
 * **User Decline:** Identifying trends in user loss.
 * **Unsubscription Rate:** Analyzing the rate of user cancellations.
